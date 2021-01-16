@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>icons8-trigonometry-100.png</file>
+    </qresource>
+</RCC>
